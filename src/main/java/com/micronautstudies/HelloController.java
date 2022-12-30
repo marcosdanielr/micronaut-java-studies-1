@@ -8,6 +8,6 @@ public class HelloController {
     @Get("/hello")
 
     public String getGreeting() {
-        return "Hello, word!";
+        return "Hello, world!";
     }
 }
